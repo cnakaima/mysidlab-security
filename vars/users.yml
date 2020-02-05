@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: jme7
+    aws_groups: "tokyo7, osaka7, india7"
+  - name: megan7
+    aws_groups: "mumbai7, fukuoka7, vegas7"
+  - name: sue7
+    aws_groups: "bei7, india7, vegas7"
